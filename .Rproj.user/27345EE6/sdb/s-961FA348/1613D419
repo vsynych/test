@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "dat <- c(1, 2, 3, 4, 5)\nnames(dat) <- c(\"one\", \"two\", \"three\", \"four\", \"five\")\ndat\n\n# And now a little bit of editing\n\ndat\ndat_y <- c(9, 8, 7, 6, 5)\nnames(dat_y) <- c(\"nine\", \"eight\", \"seven\", \"six\", \"five\")\ndat_y\n\n# New editing\n# New line\n",
+    "created" : 1456190491082.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3021028063",
+    "id" : "1613D419",
+    "lastKnownWriteTime" : 1456192797,
+    "last_content_update" : 1456192797803,
+    "path" : "~/GitHub/R/GitHub Projects/test/main.R",
+    "project_path" : "main.R",
+    "properties" : {
+        "docOutlineVisible" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
