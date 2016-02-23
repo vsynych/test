@@ -13,3 +13,7 @@ dat_y
 # Editing after connection to GitHub was made
 
 cum_data <- c(dat, dat_y)
+
+s <- 1:100
+t <- rnorm(100)
+plot(s, t)
