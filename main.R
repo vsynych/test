@@ -17,3 +17,7 @@ cum_data <- c(dat, dat_y)
 s <- 1:100
 t <- rnorm(100)
 plot(s, t)
+st <- as.data.frame(cbind(s, t))
+# Some more lines
+#
+#
