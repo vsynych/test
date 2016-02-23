@@ -10,4 +10,6 @@ names(dat_y) <- c("nine", "eight", "seven", "six", "five")
 dat_y
 
 # New editing
-# New line
+# Editing after connection to GitHub was made
+
+cum_data <- c(dat, dat_y)
